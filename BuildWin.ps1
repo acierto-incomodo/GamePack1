@@ -12,3 +12,4 @@ echo v1.6.4633 > dist/RimworldVersion.txt
 echo v1.0.0 > dist/SandboxVersion.txt
 echo v2.3.2 > dist/TheBabyInYellowVersion.txt
 echo v0.51.2 > dist/WorldboxVersion.txt
+echo v1.0.8 > dist/LibrarianTidyUpTheArcaneLibraryVersion.txt
