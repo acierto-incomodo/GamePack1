@@ -13,3 +13,5 @@ echo v1.0.0 > dist/SandboxVersion.txt
 echo v2.3.2 > dist/TheBabyInYellowVersion.txt
 echo v0.51.2 > dist/WorldboxVersion.txt
 echo v1.0.8 > dist/LibrarianTidyUpTheArcaneLibraryVersion.txt
+echo v1.0.10 > dist/How_to_Fish_version.txt
+echo v1.0.0 > dist/BOMBANANA-version.txt
