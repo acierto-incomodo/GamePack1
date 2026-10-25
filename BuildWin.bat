@@ -3,7 +3,7 @@ python -m PyInstaller --onefile --windowed --noconsole --icon=setting.ico NoComp
 echo v1.0.0 > dist/BridgeConstructorPortalVersion.txt
 echo v0.15.1.1 > dist/ColonySurvivalVersion.txt
 echo v2.053 > dist/CookieClickerVersion.txt
-echo v1.0.0 > dist/GeometryDashVersion.txt
+echo b26002420 > dist/GeometryDashVersion.txt
 echo v1.0.0 > dist/LevelDevilVersion.txt
 echo v3.2.2 > dist/LosslessScalingVersion.txt
 echo v1.4.11.124-S > dist/PapersPleaseVersion.txt
