@@ -15,3 +15,4 @@ echo v0.51.2 > dist/WorldboxVersion.txt
 echo v1.0.8 > dist/LibrarianTidyUpTheArcaneLibraryVersion.txt
 echo v1.1.3 > dist/How_to_Fish_version.txt
 echo v1.0.0 > dist/BOMBANANA-version.txt
+echo b26276669 > dist/CRACK-version.txt
